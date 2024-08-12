@@ -1,14 +1,34 @@
 {
   "transactions": [
     {
+      "id": "3be8",
       "name": "Salário",
-      "amount": 2000,
-      "id": "1376"
+      "amount": 2000
     },
     {
-      "name": "Despesas",
-      "amount": -1500,
-      "id": "d3f3"
+      "name": "Aluguel",
+      "amount": -1100,
+      "id": "2c9d"
+    },
+    {
+      "id": "dacd",
+      "name": "Conta de luz",
+      "amount": -200
+    },
+    {
+      "name": "Streaming",
+      "amount": -49.9,
+      "id": "a7fc"
+    },
+    {
+      "id": "8efe",
+      "name": "Academia",
+      "amount": -150
+    },
+    {
+      "id": "efc5",
+      "name": "Freela",
+      "amount": 200
     }
   ]
 }
